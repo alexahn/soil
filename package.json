@@ -1,16 +1,18 @@
 {
-    "name": "soil",
-    "version": "0.0.1",
-    "author": "Alex Ahn <alex.ahn@msg.com>",
-    "maintainer": "Alex Ahn",
-    "description": "placeholder",
-    "category": [],
-    "keywords": [],
-    "homepage": "https://github.com/alexahn/soil",
-    "repository": "https://github.com/alexahn/soil.git",
-    "engines": { "node" : ">= 0.4.x" },
-    "main": "index",
-    "dependencies": {
-        "async" : "*"
-    }
+  "name": "soil",
+  "version": "0.0.3",
+  "author": "Alex Ahn <alexahnhome@gmail.com>",
+  "maintainer": "Alex Ahn",
+  "description": "sliding buffer transform stream",
+  "category": [],
+  "keywords": [],
+  "homepage": "https://github.com/alexahn/soil",
+  "repository": "https://github.com/alexahn/soil.git",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "main": "index",
+  "dependencies": {
+    "async": "=0.9.0"
+  }
 }
